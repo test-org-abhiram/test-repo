@@ -1,1 +1,4 @@
-mock config values file
+hawkeye_config: |-
+  hawkeyeconfig:
+    DISABLED_GENERATOR_HOURLY_AGENT_PIPELINE: []
+    DISABLED_GENERATOR_HOURLY_CLOUDTRAIL_PIPELINE: []
